@@ -6,7 +6,7 @@ public class UserRegistrationIntellij {
 
     public static void main(String[] args) {
         System.out.println("User Registration");
-        
+
         System.out.println("Enter the first name");
         String name = input.next();
         if(Fname(name)==true)
